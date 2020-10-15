@@ -1,4 +1,19 @@
 {
   "name": "md-links",
-  "version": "0.1.0"
+  "version": "1.0.0",
+  "description": "Project Md-Links",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Claraescobar123/bog001-md-links.git"
+  },
+  "keywords": [
+    "md-links",
+    "library"
+  ],
+  "author": "Clara Escobar",
+  "license": "ISC"
 }
