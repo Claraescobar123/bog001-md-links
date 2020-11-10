@@ -20,6 +20,7 @@
   "author": "Clara Escobar",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.21.0",
     "marked": "^1.2.0",
     "node-fetch": "^2.6.1"
   }
