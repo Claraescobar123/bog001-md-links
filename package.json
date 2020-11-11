@@ -1,13 +1,16 @@
 {
-  "name": "md-links",
+  "name": "@claraescobar123/md-links",
   "version": "1.0.0",
   "description": "Project Md-Links",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "scripts": {
     "test": "jest --coverage"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "bin": {
-    "mdLinks": "./cli.js"
+    "mdLinks": "./lib/CLI.js"
   },
   "repository": {
     "type": "git",
@@ -15,10 +18,11 @@
   },
   "keywords": [
     "md-links",
-    "library"
+    "library",
+    "nodejs"
   ],
   "author": "Clara Escobar",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.21.0",
     "marked": "^1.2.0",
