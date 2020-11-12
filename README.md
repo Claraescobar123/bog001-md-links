@@ -43,7 +43,7 @@ En la sección de projects de mi repositorio puedes encontrar el planning de est
 
 ## Diagrama de flujo
 
-<img src="" alt="usuario"  width="300" >
+<img src="https://github.com/Claraescobar123/bog001-md-links/blob/master/lib/Diagrama%20de%20flujo%20-%20mdLinks_Final.png" alt="diagrama de flujo"  width="300" >
 
 
 ## Objetivos de Aprendizaje
