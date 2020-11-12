@@ -37,6 +37,10 @@ mdLinks  .\ruta\relativa --validate
 
 mdLinks  .\ruta\relativa --stats
 
+* Ingresar el comando "mdLinks" + la ruta (que puede ser absoluta o relativa) del directorio a explorar + "--stats" y "--validate" o viceversa
+
+mdLinks  .\ruta\relativa --stats --validate
+
 ## BACKLOG
 
 En la sección de projects de mi repositorio puedes encontrar el planning de este proyecto.
