@@ -21,7 +21,7 @@ El código está escrito en javascript.
 
 $ npm install @claraescobar123/md-links@1.0.0
 
-## Ejemplos de uso en la Linea de Comandos Shell
+## Ejemplos de uso en la Linea de Comandos
 
 * Ingresar el comando "mdLinks" + la ruta (que puede ser absoluta o relativa) del directorio a explorar:
 
@@ -66,7 +66,7 @@ En la sección de projects de mi repositorio puedes encontrar el planning de est
 
 * [x] Uso de sistema de archivos. ([fs](https://nodejs.org/api/fs.html), [path](https://nodejs.org/api/path.html))
 * [x] Instalar y usar módulos. ([npm](https://www.npmjs.com/))
-* [x] Creación de modules. [(CommonJS)](https://nodejs.org/docs/latest-v0.10.x/api/modules.html)
+* [ ] Creación de modules. [(CommonJS)](https://nodejs.org/docs/latest-v0.10.x/api/modules.html)
 * [x] [Configuración de package.json.](https://docs.npmjs.com/files/package.json)
 * [x] [Configuración de npm-scripts](https://docs.npmjs.com/misc/scripts)
 * [x] Uso de CLI (Command Line Interface - Interfaz de Línea de Comando)
